@@ -10,7 +10,7 @@
 
     <header class="bg-gray-800 p-4 sticky top-0 ">
         <div class="container mx-auto text-center">
-            <p class="text-white font-bold text-2xl">Book List</p>
+            <p class="text-blue-200 font-bold text-2xl">Book List</p>
         </div>
     </header>
 
@@ -20,7 +20,7 @@
 
     <footer class="bg-gray-800 p-4 mt-4">
         <div class="container mx-auto text-center">
-            <span class="text-white">Made by EMS</span>
+            <span class="text-blue-200">Made by EMS</span>
         </div>
     </footer>
 </html>
